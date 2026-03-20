@@ -13,7 +13,6 @@ This system is converted from Student Management System into Product Management 
 - Update Product
 - Delete Product
 
-## Screenshots
 <img width="472" height="237" alt="image" src="https://github.com/user-attachments/assets/c90f912e-e8f5-44f6-a31d-7001e9656fe9" />
 <img width="300" height="315" alt="image" src="https://github.com/user-attachments/assets/005afcb2-2875-4bd5-807d-7157157a5d6c" />
 <img width="548" height="303" alt="image" src="https://github.com/user-attachments/assets/96bbd18d-7d78-4d02-8efd-60bf50e21c49" />
